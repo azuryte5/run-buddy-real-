@@ -79,7 +79,8 @@ section {
   position: relative;
 }
 
-/* Hero Style End */
+
+
 
 .hero-form {
   border: 3px solid #024e76;
@@ -99,6 +100,8 @@ section {
 .hero-form p {
   margin: 5px 0 15px 0;
 }
+
+
 
 .form-input {
   border: 1px solid #024e76;
@@ -122,6 +125,11 @@ section {
   font-size: 16px;
 }
 
+.hero-cta {
+  width: 60%;
+}
+
+/* Hero Style End */
 .intro {
   text-align: center;
 }
